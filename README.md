@@ -1,7 +1,7 @@
  ## 🎨 ArtGuard
 ArtGuard is a deep learning-based image classification project that detects whether a given image is AI-generated or real human-made art. It uses a fine-tuned ResNet50 model and is trained on a curated dataset containing AI-generated artworks and real artworks.
 
-##🚀 Features
+## 🚀 Features
 Classifies artwork as AI-generated or Real Art
 
 Uses ResNet50 pretrained on ImageNet
@@ -12,7 +12,7 @@ Real-time prediction using uploaded images
 
 Achieved high accuracy on both training and testing sets
 
-##🧠 Model Architecture
+## 🧠 Model Architecture
 Base: ResNet50 (without top layers)
 
 Global Average Pooling
